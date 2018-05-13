@@ -1,6 +1,6 @@
 {
     "project": {
-        "name": "mybgg"
+        "name": "petlibo"
     },
     "boardgamegeek": {
         "user_name": "petlibo",
@@ -11,6 +11,6 @@
     "algolia": {
         "app_id": "00GQDHDL1N",
         "api_key_search_only": "b20c66c0a5491f92a4eb7366ebfa1c3b",
-        "index_name": "bgg"
+        "index_name": "petlibo"
     }
 }
